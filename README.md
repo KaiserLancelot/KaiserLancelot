@@ -9,4 +9,4 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)](https://isocpp.org/)
 
 | [![Kaiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiserLancelot&show_icons=true&theme=dark&count_private=false)](https://github.com/KaiserLancelot) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiserLancelot&layout=compact&langs_count=4&theme=dark)](https://github.com/KaiserLancelot) |
-|---|---|
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
