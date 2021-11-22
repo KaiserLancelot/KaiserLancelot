@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| [![KaiserLancelot's Github Stats](https://github-readme-stats.vercel.app/api?username=KaiserLancelot&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/KaiserLancelot) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiserLancelot&layout=compact&langs_count=3&theme=dark)](https://github.com/KaiserLancelot) |
+|---|---|
