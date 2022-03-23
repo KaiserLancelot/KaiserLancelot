@@ -8,4 +8,4 @@
 [![Editor](https://img.shields.io/badge/editor-Visual%20Studio%20Code-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)](https://isocpp.org/)
 
-[![Kaiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiserLancelot&show_icons=true&theme=dark&count_private=false)](https://github.com/KaiserLancelot)
+[![Kaiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiserLancelot&include_all_commits=true&show_icons=true&theme=dark&count_private=false)](https://github.com/KaiserLancelot)
