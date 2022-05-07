@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Windows](https://img.shields.io/badge/Windows-11-blue?logo=windows)](https://www.microsoft.com/zh-cn/windows/windows-11)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-21.10-red?logo=ubuntu)](https://ubuntu.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-red?logo=ubuntu)](https://ubuntu.com/)
 [![iOS](https://img.shields.io/badge/iOS-15-000000?logo=apple)](https://www.apple.com.cn/ios/ios-15/)
 
 [![IDE](https://img.shields.io/badge/IDE-CLion-green?logo=clion)](https://www.jetbrains.com/zh-cn/clion/)
