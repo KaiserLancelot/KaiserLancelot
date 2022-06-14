@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/kaiserlancelot)
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![Kubuntu](https://img.shields.io/badge/-Kubuntu-%230079C1?logo=kubuntu&logoColor=white)](https://kubuntu.org/)
+[![Kubuntu](https://img.shields.io/badge/Kubuntu-%230079C1?logo=kubuntu&logoColor=white)](https://kubuntu.org/)
 [![IOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
 
 [![CLion](https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
