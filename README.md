@@ -9,7 +9,7 @@
 [![CLion](https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 [![Kaiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiserLancelot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/KaiserLancelot)
