@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-[![Windows](https://img.shields.io/badge/Windows-11-blue?logo=windows)](https://www.microsoft.com/zh-cn/windows/windows-11)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-red?logo=ubuntu)](https://ubuntu.com/)
-[![iOS](https://img.shields.io/badge/iOS-15-000000?logo=apple)](https://www.apple.com.cn/ios/ios-15/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kaiserlancelot)
 
-[![IDE](https://img.shields.io/badge/IDE-CLion-green?logo=clion)](https://www.jetbrains.com/zh-cn/clion/)
-[![Editor](https://img.shields.io/badge/editor-Visual%20Studio%20Code-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
+[![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)](https://kubuntu.org/)
+[![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
 
-[![C++](https://img.shields.io/badge/C%2B%2B-20-blue?logo=c%2B%2B)](https://isocpp.org/)
-[![Rust](https://img.shields.io/badge/Rust-2021-000000?logo=Rust)](https://www.rust-lang.org/zh-CN/)
+[![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-[![Kaiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiserLancelot&include_all_commits=true&show_icons=true&theme=dark&count_private=false)](https://github.com/KaiserLancelot)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+[![Kaiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiserLancelot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/KaiserLancelot)
