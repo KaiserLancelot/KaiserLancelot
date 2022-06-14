@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/kaiserlancelot)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kaiserlancelot123@gmail.com)
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Kubuntu](https://img.shields.io/badge/Kubuntu-%230079C1?logo=kubuntu&logoColor=white)](https://kubuntu.org/)
