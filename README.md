@@ -4,7 +4,7 @@
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Kubuntu](https://img.shields.io/badge/Kubuntu-%230079C1?logo=kubuntu&logoColor=white)](https://kubuntu.org/)
-[![IOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
+[![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
 
 [![CLion](https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
