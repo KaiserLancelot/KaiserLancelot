@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/kaiserlancelot)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kaiserlancelot123@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/TerakomariGandesblood)
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
-[![Kubuntu](https://img.shields.io/badge/Kubuntu-%230079C1?logo=kubuntu&logoColor=white)](https://kubuntu.org/)
+[![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/monterey/)
 [![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)](https://www.apple.com/ios/ios-15/)
 
-[![CLion](https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
-[![Kaiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiserLancelot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/KaiserLancelot)
+[![Terakomari's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerakomariGandesblood&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/TerakomariGandesblood)
